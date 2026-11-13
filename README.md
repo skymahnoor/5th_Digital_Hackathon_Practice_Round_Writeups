@@ -11,3 +11,4 @@ A collection of challenge writeups, explained in simple beginner-friendly langua
 | 5 | [Gitpack](05-gitpack.md) | Network Forensics / OAuth Phishing | 50 |
 | 6 | [Jackpot](06-jackpot.md) | Digital Forensics | 120 |
 | 7 | [Fractured Forecast](07-fractured-forecast.md) | Cryptography | 392 |
+| 8 | [Tornwall](08-tornwall.md) | Forensics / DNS Exfiltration | 200 |
